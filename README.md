@@ -3,8 +3,8 @@
 ------------
 About Basic ML Classification with 3 types 
 
-  ⋅⋅⋅1.DecisionTree 
+    1.DecisionTree 
   
-  ⋅⋅⋅2.LDA linear discriminant analysis 
+    2.LDA linear discriminant analysis 
   
-  ⋅⋅⋅3.Logistic regression
+    3.Logistic regression
